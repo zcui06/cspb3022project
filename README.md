@@ -1,2 +1,3 @@
-# cspb3022project
-CSPB3002 Project
+# CSPB 3022 Project
+Summer 2022
+Zheng Cui
